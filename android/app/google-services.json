@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "653232549008",
+    "project_id": "padel-d8e9d",
+    "storage_bucket": "padel-d8e9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653232549008:android:a3aea28260ba75a2327c15",
+        "android_client_info": {
+          "package_name": "com.example.padel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653232549008-a3q09ldsaho8814sk4a06p56q3elbgmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.padel",
+            "certificate_hash": "504edb7c5d01d70acdd7e4b7a357eab13cf112c5"
+          }
+        },
+        {
+          "client_id": "653232549008-p8eshhe6tbq4amr1e8tin7vn8mcljgg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO5sRW9UnmtGq8mgI-TVQ7KZ8WDufjTGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653232549008-p8eshhe6tbq4amr1e8tin7vn8mcljgg5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "653232549008-1v8i9qslbagel0hs8bqhv7queqtlqp6q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.padel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
